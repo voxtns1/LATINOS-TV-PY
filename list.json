@@ -2597,7 +2597,7 @@
           "description": "CL",
           "studio": "Chile - m3u",
           "type": "",
-          "videoUrl": "ttps://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
+          "videoUrl": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
           "bgImageUrl": "https://i2.paste.pics/38adedd4130272be03ef804c5eaf067e.png",
           "cardImageUrl": "https://i2.paste.pics/38adedd4130272be03ef804c5eaf067e.png",
           "useAgent": "Chrome"
